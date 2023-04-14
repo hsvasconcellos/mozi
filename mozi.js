@@ -6,7 +6,7 @@ function esconderBotao() {
 }
 
 function adicionarImg() {
-  caixa.style.backgroundImage = "url('photo_2023-04-13_20-39-40.jpg')";
+  caixa.style.backgroundImage = "url('ananda.jpg')";
 }
 
 botao.addEventListener("click", () => {
