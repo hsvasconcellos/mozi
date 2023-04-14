@@ -8,10 +8,11 @@ function esconderBotao() {
 
 function adicionarImg() {
   caixa.style.backgroundImage = "url('ananda.jpg')";
+  caixa.style.border = "1px solid #0000003d;";
 }
 
 function adicionarFundo() {
-  fundo.style.backgroundImage = "url('coracao.jpg')";
+  fundo.style.backgroundImage = "url('fundorosa.jpg')";
 }
 
 botao.addEventListener("click", () => {
