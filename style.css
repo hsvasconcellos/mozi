@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  background-image: url(./pattern001.png);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.box {
+  width: 100vw;
+  height: 100vh;
+  margin: 15px;
+  display: flex;
+  max-width: 500px;
+  max-height: 400px;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px black;
+}
+
+.conteudo {
+  color: white;
+  background-color: red;
+  padding: 20px;
+  border-radius: 20px;
+  font-weight: bolder;
+  font-size: 2rem;
+  cursor: pointer;
+  max-width: 400px;
+  max-height: 300px;
+  margin: 10px;
+}
+
+.hide {
+  display: none;
+}
