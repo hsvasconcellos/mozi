@@ -15,6 +15,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-size: 100%;
 }
 .box {
   width: 100%;
