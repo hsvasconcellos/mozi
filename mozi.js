@@ -12,7 +12,7 @@ function adicionarImg() {
 }
 
 function adicionarFundo() {
-  fundo.style.backgroundImage = "url('fundorosa.jpg')";
+  fundo.style.backgroundImage = "url('fundorosa2.jpg')";
 }
 
 botao.addEventListener("click", () => {
