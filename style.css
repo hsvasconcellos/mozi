@@ -19,7 +19,7 @@ body {
 .box {
   width: 100vw;
   height: 100vh;
-  margin: 15px;
+  margin: 15px 15px;
   display: flex;
   max-width: 500px;
   max-height: 400px;
